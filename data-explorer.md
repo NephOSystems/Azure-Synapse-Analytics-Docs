@@ -12,7 +12,7 @@ Büyük hacimli zaman serilerini alıp, datayı loglara kaydedecek ve bunu Power
 görselleştirmeleri oluşturulabilir. Böylelikle düzensizlikler verimli bir şekilde belirlenebilir 
 ve daha güvenli bir sistem sağlanabilir.
 
-![dataexplorer](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fsynapse-analytics%2Foverview-what-is&psig=AOvVaw2MU2a5noOgH65VNHJxiMu1&ust=1643458785804000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOClqpy31PUCFQAAAAAdAAAAABAD)
+![dataexplorer](https://docs.microsoft.com/en-us/azure/synapse-analytics/media/overview-what-is/synapse-architecture.png)
 
 ## Data Explorer ile neler yapılabilir?
 
