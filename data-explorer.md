@@ -12,7 +12,8 @@ Büyük hacimli zaman serilerini alıp, datayı loglara kaydedecek ve bunu Power
 görselleştirmeleri oluşturulabilir. Böylelikle düzensizlikler verimli bir şekilde belirlenebilir 
 ve daha güvenli bir sistem sağlanabilir.
 
-![dataexplorer](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b2c36c15-897d-4442-8811-f005b6c04695/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220128%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220128T121717Z&X-Amz-Expires=86400&X-Amz-Signature=6c8953e445b7b64ba36dc838ee2449b0a1a46a89700e63208ecf16eed0f4bc83&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![dataexplorer](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fsynapse-analytics%2Foverview-what-is&psig=AOvVaw2MU2a5noOgH65VNHJxiMu1&ust=1643458785804000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOClqpy31PUCFQAAAAAdAAAAABAD)
+
 ## Data Explorer ile neler yapılabilir?
 
 - Veriler otomatik olarak sıkıştırılır, indekslenir, otomatik olarak optimize edilir ve yerel SSD'lerde önbelleğe alınır ve depolamada kalıcı olur. Hesaplama ve depolama birbirinden ayrılmıştır, bu da size herhangi bir kesinti olmadan otomatik olarak içeri/dışarı ölçeklendirme esnekliği sağlar.
@@ -21,4 +22,4 @@ ve daha güvenli bir sistem sağlanabilir.
 - Model scoring için in-engine Python ve R yürütme desteği ile birden çok zaman serisinin oluşturulması, işlenmesi ve analizi için yerel, gelişmiş zaman serisi desteği.
 
 
-Bu özellikler, Azure Synapse Data Explorer’ı loglar, olaylar, zaman serileri gibi telemetri verilerini ve diğer salt eklemeli telemetri verilerini almak, depolamak, sorgulamak ve görselleştirmek için mükemmel bir araç haline getirir.
+``` Bu özellikler, Azure Synapse Data Explorer’ı loglar, olaylar, zaman serileri gibi telemetri verilerini ve diğer salt eklemeli telemetri verilerini almak, depolamak, sorgulamak ve görselleştirmek için mükemmel bir araç haline getirir. ```
