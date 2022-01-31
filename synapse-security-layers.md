@@ -3,6 +3,7 @@
 Azure Synapse Analytics, verilerinizin uçtan uca korunması için çok katmanlı bir güvenlik mimarisi uygular.
 
 Bunlar beş katmandan oluşur:
+
 **Data Protection:** Hassas verileri tanımlamak, sınıflandırmak ve verileri şifrelemek
 
 **Access Control:** Kullanıcıların verilere erişim kurma yetkisini belirleme
